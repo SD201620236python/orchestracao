@@ -1,0 +1,8 @@
+README.md
+setup.py
+orchestracao.egg-info/PKG-INFO
+orchestracao.egg-info/SOURCES.txt
+orchestracao.egg-info/dependency_links.txt
+orchestracao.egg-info/entry_points.txt
+orchestracao.egg-info/requires.txt
+orchestracao.egg-info/top_level.txt

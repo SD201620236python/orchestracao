@@ -1,0 +1,3 @@
+[console_script]
+ochestracao = main:main
+
